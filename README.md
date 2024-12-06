@@ -12,7 +12,7 @@ This repository showcases the process of converting video input into a panorama 
 
 Below is the final result of the panorama created from the input video:
 
-(https://github.com/user-attachments/assets/f5f90d16-cc17-421f-b278-f870265197fc)
+[![Watch Video](https://via.placeholder.com/800x450.png?text=Watch+Video)](https://github.com/user-attachments/assets/f5f90d16-cc17-421f-b278-f870265197fc)
 
 ---
 
