@@ -29,4 +29,4 @@ This project demonstrates:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/<repo>.git
+   git clone [https://github.com/<username>/<repo>.git](https://github.com/DawoodTahir/Video2Panorama.git)
