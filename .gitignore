@@ -1,0 +1,15 @@
+# Ignore files larger than 50 MB
+*.iso
+*.mp4
+*.zip
+*.tar.gz
+*.exe
+*.bin
+
+# Ignore specific folders containing large files
+/large_files/
+/backups/
+
+# Ignore large datasets
+*.csv
+*.json
