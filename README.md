@@ -29,4 +29,9 @@ This project demonstrates:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/<username>/<repo>.git](https://github.com/DawoodTahir/Video2Panorama.git)
+   git clone https://github.com/DawoodTahir/Video2Panorama.git
+2. In the Command shell:
+   ```bash
+   python stitch.py
+   
+   
