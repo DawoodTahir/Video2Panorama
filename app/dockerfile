@@ -1,0 +1,13 @@
+# Use an official Python image from the Docker Hub
+FROM python:3.9
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy your local code to the container (optional if you’re adding code later)
+COPY ./requirements.txt *.py ./
+
+RUN pip install --no-cache-dir --upgrade  -r /app/requirements.txt
+
+# Set default command to Python (you can override this in the Docker run command)
+CMD ["uvicorn","main:app","--host","::","--port","80"]
